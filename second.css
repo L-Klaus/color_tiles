@@ -1,0 +1,30 @@
+
+p  {
+	color: #f442ce;
+	font-size: 40px;
+	text-align: center;
+	margin: 20px 0 5px 0;
+	padding: 0;
+	border: 0;
+}
+
+button {
+	margin:0 0 10px 47%;
+	padding: 10px;
+	border: 0;
+
+}
+
+#board {
+	border: 3px solid black;
+	height: 500px;
+	width: 500px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+button, #change {
+	color: magenta;
+	background-color: yellow;
+}
